@@ -1,0 +1,5 @@
+a {color:black;}
+a:hover {color: grey;}
+body {padding: 10px; line-height: 2; font-family: 'Comic Sans MS';}
+.meme {display: none;}
+@media (max-width: 500px) {.meme {display: block; font-size: 12px; color: purple;} body {font-size: 200px; color: yellow;}}
