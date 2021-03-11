@@ -1,4 +1,6 @@
-# 2019-2021?_portfolio
-things I did over the school year
-This exists so I can tell myself that I did not infact do potato this year
-right now it's just my time at TAMS (Aug. 2019- Now)
+# 2019-2021_portfolio
+things I did throughout school
+
+This exists so I can tell myself that I did learn/did something
+
+it's just my time at TAMS (Aug. 2019- Now)
