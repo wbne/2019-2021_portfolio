@@ -3,4 +3,4 @@ things I did throughout school
 
 This exists so I can tell myself that I did learn/did something
 
-it's just my time at TAMS (Aug. 2019- Now)
+it's just my time at TAMS (August 2019- May(ish) 2021)
